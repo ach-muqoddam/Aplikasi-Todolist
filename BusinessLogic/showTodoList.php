@@ -6,6 +6,14 @@ menampilkan todo di list
 
 function showTodoList()
 {
+    global $todoList; // global scope
+
+    echo "TODOLIST" . PHP_EOL;
+
+    foreach ($todoList as $number => $value)
+    {
+        echo "$number . $value" . PHP_EOL;
+    }
 
 }
 
