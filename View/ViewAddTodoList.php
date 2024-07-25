@@ -10,10 +10,10 @@ function ViewAddTodoList()
 {
     echo "MENAMBAH TODO" . PHP_EOL;
     
-    $todo = input("Todo (x untuk batal) : ");
+    $todo = input("Todo (x untuk batal)");
 
     if ($todo == "x") {
-        //batal
+        echo "Batal menambah Todo" . PHP_EOL;
     } else {
         addTodoList($todo);
     }
