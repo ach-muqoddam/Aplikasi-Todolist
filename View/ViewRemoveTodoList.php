@@ -21,7 +21,7 @@ function ViewRemoveTodoList()
         if ($success) {
             echo "sukses menghapus todo nomor $pilihan" . PHP_EOL;
         } else {
-            echo "gagal menghapus todo nomor $pilihan" . PHP_EOL;
+            echo "nomer $pilihan tidak ada di list todo" . PHP_EOL;
         }
     }
 }
