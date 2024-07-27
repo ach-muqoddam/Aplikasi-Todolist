@@ -18,6 +18,6 @@ Kenapa butuh prototype?
 
 Berikut contoh Prototype Aplikasi TodoList:
 
-![Prorotype 1](https://drive.google.com/file/d/1IP3qyK-LQas0uuiI1dwSL7URHVB-T1FY/view?usp=sharing)
+![Prorotype 1](https://drive.google.com/file/d/1IP3qyK-LQas0uuiI1dwSL7URHVB-T1FY/view?usp=drive_link)
 ![Prorotype 2](https://drive.google.com/file/d/1gLvfVmutbGBPJjMYOg4ujV0mywC86JeT/view?usp=sharing)
 ![Prorotype 3](https://drive.google.com/file/d/1u4uwUHK_riR47pD5rChxJVquGlYVBSKm/view?usp=sharing)
