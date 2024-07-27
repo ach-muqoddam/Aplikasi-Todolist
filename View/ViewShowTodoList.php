@@ -1,12 +1,12 @@
 <?php 
 
-require_once "./Model/TodoList.php";
+require_once __DIR__ . "/../Model/TodoList.php";
 
-require_once "./BusinessLogic/showTodoList.php";
-require_once "./View/ViewAddTodoList.php";
-require_once "./View/ViewRemoveTodoList.php";
+require_once __DIR__ . "/../BusinessLogic/showTodoList.php";
+require_once __DIR__ . "/../View/ViewAddTodoList.php";
+require_once __DIR__ . "/../View/ViewRemoveTodoList.php";
 
-require_once "./Helper/Input.php";
+require_once __DIR__ . "/..//Helper/Input.php";
 
 function ViewShowTodoList()
 {
