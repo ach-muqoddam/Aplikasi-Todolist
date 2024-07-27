@@ -7,6 +7,7 @@ Membuat Aplikasi TodoList dari Bahasa Pemrograman PHP Dasar .
 
 - [Prototype](#prototype)
 - [Model](#model)
+- [BusinessLogic](#businesslogic)
 
 ## Protoype
 
@@ -30,3 +31,9 @@ Apa itu Model?
 - Model itu adalah data atau representasi data yang akan dibuat dari aplikasinya
 - Biasanya membuat aplikasi berbasis database, rata-rata membuat model itu representasi dari tabel di database
 - Contoh studi kasus ini tidak membuat aplikasi dari model database, tapi membuat aplikasi berbasis command line dan data akan disimpan di memory, dikarenakan PHP Dasar masih belum belajar tentang PHP Database
+
+## BusinessLogic
+
+- BusinessLogic ini semacam fitur yang ada di aplikasi
+- Sebagai fungsi membuat alur logika yang merujuk representasi dari prototype aplikasi
+- oohh yaaa untuk sebutan BusinessLogic ini bebas penamaannya yaa, intinya fungsi dan tujuannya bisa dipahami sesuai kata hati :)
